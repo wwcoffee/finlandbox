@@ -35,6 +35,11 @@
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
+
+        <!---...react -->
+        <div id="like_button_container"></div>"
+        <!--...  end -->
+
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
@@ -268,7 +273,13 @@ http://cacaxi.com/
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
+    <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+  <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
 
+  <!-- Load our React component. -->
+  <script src="like_button.js"></script>
   </body>
 
 </html>
