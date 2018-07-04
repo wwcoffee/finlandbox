@@ -5,17 +5,19 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="卡卡西工作室专注于现代的视觉表现艺术，提供专业的图片和视频服务。位于杭州西湖CBD时尚中心。涉足人物肖像，时装，网红写真，时尚街拍等领域。www.cacaxi.com 2018">
-    <meta name="author" content="黄小觉">
+    <meta name="description" content="卡卡西工作室专注于现代的视觉表现艺术，提供专业的图片和视频服务，是现代都市斜杠生活践行者。团队成员来自不同行业，程序员，设计师，律师，投资人等等。用镜头链接世界，让我们来给你照个像吧，也许不止于此。位于杭州西湖CBD时尚中心。涉足人物肖像，时装，网红写真，时尚街拍等领域。www.cacaxi.com 2018">
+    <meta name="author" content="cacaxi studio">
 
-    <title>卡卡西工作室|CACAXI STUDIO|因为专注而美丽</title>
+    <title>///卡卡西工作室/CACAxI Studio/Forward slash life</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
+   
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
     <!-- Plugin CSS -->
@@ -23,7 +25,6 @@
 
     <!-- Custom styles for this template -->
     <link href="css/creative.min.css" rel="stylesheet">
-
   </head>
 
   <body id="page-top">
@@ -31,28 +32,25 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">卡卡西工作室 CACAXI STUDIO</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">///卡卡西工作室 CACAxI STUDIO</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <!---...react -->
-        <div id="like_button_container"></div>"
-        <!--...  end -->
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">团队介绍</a>
+                <a class="nav-link js-scroll-trigger" href="#about">//斜杠介绍</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">服务价格</a>
+              <a class="nav-link js-scroll-trigger" href="#services">//服务推广</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">作品呈现</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">//作品呈现</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">联系我们</a>
+              <a class="nav-link js-scroll-trigger" href="#contact">//加入我们</a>
             </li>
           </ul>
         </div>
@@ -64,26 +62,41 @@
         <div class="row">
           <div class="col-https://dc.console.aliyun.com/next/index#/domain/list/all-domainlg-10 mx-auto">
             <h1 class="text-uppercase">
-              <strong>因为专注而美丽</strong>
+              <strong>用镜头链接世界</strong>
             </h1>
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="text-faded mb-5">卡卡西工作室提供专业的图片和视频制作</p>
-            <p class="text-faded mb-5">不止于此 还有更多<p>
-            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">团队介绍</a>
+            <p class="text-faded mb-5">//卡卡西工作室提供专业的图片和视频制作</p>
+            <p class="text-faded mb-5">/Forward slash life<p>
+            <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">我们是</a>
           </div>
         </div>
       </div>
     </header>
-http://cacaxi.com/
     <section class="bg-primary" id="about">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">主摄 小觉</h2>
+
+            <h4 class="section-heading text-white">现代城市生活中，每个人都可能不只局限于一种职业，我们的摄影师也许会是程序员，科技公司的CEO，律师，投资人，大学老师，建筑师，健身教练，自媒体达人...。通过摄影拓展人脉，跨界然后聚变。</h2>
+            <p class="text-faded mb-4">"作家如果白天能从事一个与写作活动无关的闲职，那么他的作品会写得更好。"————《反脆弱》</p>
+
+            <p></p>
+            <h4 class="section-heading text-white"></h2>
+ 
+           <h2 class="section-heading text-white">主摄 黄小觉</h2>
+            <hr class="light my-4">
+            <p class="text-faded mb-4">"网页设计师/作家/导游"</p>
+            
+            <h2 class="section-heading text-white">主摄 黄小觉</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">摄影界的王小波，时尚界的中本聪，科技界的毕加索。</p>
+            
+            <h2 class="section-heading text-white">主摄 黄小觉</h2>
+            <hr class="light my-4">
+            <p class="text-faded mb-4">摄影界的王小波，时尚界的中本聪，科技界的毕加索。</p>
+
 
             <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">预约拍摄</a>
           </div>
@@ -95,7 +108,7 @@ http://cacaxi.com/
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">服务价格</h2>
+            <h2 class="section-heading">//服务推广</h2>
             <hr class="my-4">
           </div>
         </div>
@@ -104,29 +117,29 @@ http://cacaxi.com/
         <div class="row">
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-diamond text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">艺术肖像</h3>
+              <i class="fa fa-4x fa-camera text-primary mb-3 sr-icons"></i>
+              <h3 class="mb-3">//艺术肖像</h3>
               <p class="text-muted mb-0">1200元一套</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-paper-plane text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">求职写真</h3>
+              <i class="fa fa-4x fa-car text-primary mb-3 sr-icons"></i>
+              <h3 class="mb-3">//求职写真</h3>
               <p class="text-muted mb-0">600元一套</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-newspaper-o text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">网络包装</h3>
+              <i class="fa fa-4x fa-microphone text-primary mb-3 sr-icons"></i>
+              <h3 class="mb-3">//网络包装</h3>
               <p class="text-muted mb-0">3000元一套</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fa fa-4x fa-heart text-primary mb-3 sr-icons"></i>
-              <h3 class="mb-3">推广视频</h3>
+              <i class="fa fa-4x fa-tv text-primary mb-3 sr-icons"></i>
+              <h3 class="mb-3">//推广视频</h3>
               <p class="text-muted mb-0">根据方案报价</p>
             </div>
           </div>
@@ -141,7 +154,7 @@ http://cacaxi.com/
             <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
               <div class="portfolio-box-caption">
-                <div class="portfolio-box-caption-content">
+                <div class="portfolio-box-caption-content"> Business
                   <div class="project-category text-faded">
                     Category
                   </div>
@@ -155,7 +168,7 @@ http://cacaxi.com/
           <div class="col-lg-4 col-sm-6">
             <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
               <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
-              <div class="portfolio-box-caption">
+              <div class="portfolio-box-caption"> Business
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
                     Category
@@ -242,25 +255,26 @@ http://cacaxi.com/
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading">恭候佳音</h2>
+            <h2 class="section-heading">加一杠</h2>
             <hr class="my-4">
-            <p class="mb-5">只为高颜值客户服务</p>
+            <p class="mb-5">快来加入我们的斜杠生活//////</p>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-4 ml-auto text-center">
-            <i class="fa fa-phone fa-3x mb-3 sr-contact"></i>
-            <p>18258124433</p>
+            <i class="fa fa-weixin fa-3x mb-3 sr-contact"></i>
+            <p>redblader</p>
           </div>
           <div class="col-lg-4 mr-auto text-center">
             <i class="fa fa-envelope-o fa-3x mb-3 sr-contact"></i>
             <p>
-              <a href="mailto:your-email@your-domain.com">huang.he@cacaxi.com</a>
+              <a href="mailto:your-email@your-domain.com">xiaojao@cacaxi.com</a>
             </p>
           </div>
         </div>
       </div>
     </section>
+ 
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
@@ -273,13 +287,22 @@ http://cacaxi.com/
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
-    <!-- Load React. -->
-  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
-  <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
-  <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
 
-  <!-- Load our React component. -->
-  <script src="like_button.js"></script>
+  </body>
+
+<
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/creative.min.js"></script>
+
   </body>
 
 </html>
